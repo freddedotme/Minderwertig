@@ -2,7 +2,7 @@
 # Minderwertig
 [![Heroku App Status](http://heroku-shields.herokuapp.com/minderwertig)](https://minderwertig.herokuapp.com)
 
-A taxi booking system created as a student project for the course *System Design with a User Perspective* at Uppsala University.
+A taxi booking system created as a student project for the course *System Design with a User Perspective* at Uppsala University. The name Minderwertig is supposed to be opposite of Uber (big taxi company), some people have mentioned that it do have a negative meaning as well, and of course we didn't think of this when this was created.
 
 Minderwertig is a web application (Javascript/Vue).
 
